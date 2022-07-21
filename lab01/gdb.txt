@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. run parameter1 parameter2 ......
+2. b line / b function
+3. c
+4. step
+5. c
+6. print i / print 1+1
+7. display var
+8. display
+9. quit
